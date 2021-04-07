@@ -215,7 +215,7 @@ Opens the specified module.
 
 | Step | When You Enter This: | You Get This: |
 | --- | --- | --- |
-| 1 | <pre> open CS2113T | <pre>Opening CS2113T.<br><br>\<Overview for CS2113T><br>Lecture - Friday 4pm - 6pm<br>Tutorial - Wednesday 9am - 10am<br><br>Undone tasks:<br>1. iP increments<br>2. Weekly exercises |
+| 1 | <pre> open CS2113T </pre> | <pre> Opening CS2113T.<br><br>\<Overview for CS2113T><br>Lecture - Friday 4pm - 6pm<br>Tutorial - Wednesday 9am - 10am<br><br>Undone tasks:<br>1. iP increments<br>2. Weekly exercises </pre> |
 
 **Result** - GULIO moves from dashboard to module layer and the module CS2113T is loaded.
 
